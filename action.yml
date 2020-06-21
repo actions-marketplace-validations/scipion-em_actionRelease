@@ -1,7 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 
 name: master to pypi with comments
-description: This action will publish master content to pypi with a comment when master branch changes. 
+description: This action will publish master content to pypi with a comment when master branch changes.
+icon: upload-cloud
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
